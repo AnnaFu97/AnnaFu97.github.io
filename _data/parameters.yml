@@ -19,7 +19,7 @@ menu:
   
   # Footer menu
   footer:
-  #- {name: Home, url: '/'}
+  - {name: Home, url: '/'}
   #- {name: Contact, url: '/contact'}
   #- {name: Tools, url: '/tools'}
 
